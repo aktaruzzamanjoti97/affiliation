@@ -141,8 +141,8 @@ Create a `.env.local` file in the root directory:
 
 ```env
 # Application Configuration
-AUTH_SECRET="w4YIdK5BFV0NdyBVvls4GZZxM0l5m4dVypGO8izuCMs="
-NEXT_PUBLIC_API_BASE_URL="https://affiliation-api.gktechbd.com/api/v1"
+AUTH_SECRET=
+NEXT_PUBLIC_API_BASE_URL=
 ```
 
 ### Configuration Files
